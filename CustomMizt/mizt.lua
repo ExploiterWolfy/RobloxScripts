@@ -1,4 +1,4 @@
----- BY Mizt#5033 AAND MODIFIED BY WOLFY
+---- BY Mizt#5033 AND MODIFIED BY WOLFY
 if not Bypass then Bypass = "limbs" end
 HumanDied = false
 
